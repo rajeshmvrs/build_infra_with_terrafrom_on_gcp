@@ -7,3 +7,8 @@ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/hashi
 sudo apt update && sudo apt install -y terraform
 EOF
 bash ~/.customize_environment
+
+
+git config --global user.email "rajeshmvrs@gmail.com" 
+
+git config --global user.name "Rajesh M"

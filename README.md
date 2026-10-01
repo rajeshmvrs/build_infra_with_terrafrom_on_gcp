@@ -13,6 +13,8 @@ EOF
 bash ~/.customize_environment
 
 ##### Configure Git env
-git config --global user.email "rajeshmvrs@gmail.com"
-git config --global user.name "Rajesh M"
+	
+	git config --global user.email "rajeshmvrs@gmail.com"
+
+	git config --global user.name "Rajesh M"
 
